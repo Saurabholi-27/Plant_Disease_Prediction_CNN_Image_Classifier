@@ -1,4 +1,8 @@
 # Plant Disease Prediction Model  
+![test_blueberry_healthy](https://github.com/user-attachments/assets/2c37f16f-60dc-464f-b31f-430ccc7b4db2)
+![test_potato_early_blight](https://github.com/user-attachments/assets/8198dc92-6961-4b25-9908-0c58933ac968)
+![test_apple_black_rot](https://github.com/user-attachments/assets/0727867d-c710-41f4-8dd0-acce3355b98f)
+
 
 This project was developed as part of the AICTE Internship on *AI: Transformative Learning*, a collaborative initiative by Microsoft, SAP, AICTE, and Edunet Foundation. The objective of the project was to build a machine learning-based solution to predict plant diseases using image data, leveraging deep learning techniques and computer vision.  
 
